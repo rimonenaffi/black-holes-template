@@ -1,4 +1,4 @@
-## Black-Holes - ITI Project
+## Black-Holes -  Tempelate
 
 ![Black Holes](assets/img/project-capture.jpeg)
 
